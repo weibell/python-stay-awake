@@ -1,5 +1,5 @@
 # python-stay-awake
-Wiggles your mouse to prevent your computer from going to sleep
+Simple mouse wiggler to prevent your computer from going to sleep
 
 
 ## Example usage
